@@ -96,7 +96,7 @@ body a:hover
 .header-logo img
 {
     transition: opacity 0.3s linear;
-    width: 20%;
+    max-width: 200px;
 }
 
 .header-logo img:hover
