@@ -996,72 +996,11 @@ p.custom-field-class
     margin-bottom: 60px;
 }
 
-.contact-form input[type=text], .contact-form input[type=email], .contact-form textarea
-{
-    color: #9a9a9a;
-    border: 0;
-    border-bottom: 1px solid #9a9a9a;
-    height: 28px;
-    font-size: 22px;
-    font-family: 'Roboto', sans-serif;
-    width: 100%;
-    line-height: 25px;
-    padding: 0;
-}
 
-.contact-form input[type=text], .contact-form input[type=email]
-{
-    padding-bottom: 5px;
-}
 
-.contact-form textarea
-{
-    -webkit-transition: all 0.3s linear;
-    -moz-transition: all 0.3s linear;
-    -ms-transition: all 0.3s linear;
-    -o-transition: all 0.3s linear;
-    transition: all 0.3s linear;
-    padding-top: 13px;
-    overflow: hidden;
-}
 
-.contact-form textarea:focus
-{
-    height: 150px;
-    overflow: auto;
-}
 
-.contact-form input[name="your-name"]
-{
-    margin-top: 0;
-    padding-top: 0;
-}
 
-.contact-form input[type=submit]
-{	
-    color: #f2d977;
-    display: inline-block;
-    border: 1px solid #f2d977;
-    text-align: center;
-    padding: 30px 0px;
-    cursor: pointer;
-    margin-bottom: 25px;
-    vertical-align: middle;
-    text-decoration: none;
-    background: transparent;
-    font-family: 'Roboto', sans-serif;
-    width: 100%;
-    text-transform: uppercase;
-    font-size: 22px;
-    border-radius: 50px;
-    transition: all .2s linear;
-}
-
-.contact-form input[type=submit]:hover
-{
-    color: white;
-    background-color: #f2d977;
-}
 
 /* END CONTACT */
 
