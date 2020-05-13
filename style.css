@@ -28,9 +28,10 @@ body a:hover
 h6{
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
-    line-height: 35px;
+    line-height: 25px;
     font-weight: 300;
     color: #222222;
+    padding:0;
 }
 
 h7{
