@@ -357,7 +357,9 @@ div.pp_default .pp_previous:hover
     background-size: 20px;    
 }
 
-
+#navigatie{
+    margin-bottom: -80px;
+}
 
 /* BLOG */
 
@@ -579,6 +581,11 @@ div.pp_default .pp_previous:hover
     line-height: 36px;
     text-align: center;
     padding-bottom: 100px;
+}
+
+.currentpage{
+    font-weight: 600;
+    text-decoration: underline;
 }
 
 /* END GENERAL PAGE */
@@ -1033,7 +1040,7 @@ p.custom-field-class
 
 .footer
 {
-    font-size: 16px;
+    font-size: 12px;
     line-height: 36px;
     margin-top: 60px;
     padding-bottom: 110px;
